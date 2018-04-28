@@ -4,7 +4,7 @@
       <input type="text" placeholder="请输入翻译的内容" v-model="text">
       <select v-model="lang">
         <option value="en">English</option>
-        <option value="ja">Chinese</option>  
+        <option value="zh">Chinese</option>  
         <option value="ko">Korean</option>
         <option value="ru">Russian</option>
         <option value="ja">Japanese</option>
